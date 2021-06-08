@@ -4,7 +4,7 @@ Team Name       :        Dominators
 
 Team Members    :        Kumar Abhishek
                          Pratham Jain
-                         Amit Kumar
+                         Amit Kumar Singh
                          Anoop Singh
                          Pawan
                          Manas
