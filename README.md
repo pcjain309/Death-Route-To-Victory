@@ -1,2 +1,14 @@
-# Death-Route-To-Victory
-This is the game made during the summer project ( Game Development Society)
+# Death Route To Victory
+```
+Team Name: Dominators
+Team Members: Kumar Abhishek
+              Pratham Jain
+              Amit Kumar
+              Anoop Singh
+              Pawan
+              Manas
+```
+Link To Design Doc: [Click Here](https://docs.google.com/document/d/161-L78ks1iEg2R0ZMZS0-N3ZoGo4MRaCXnFEcvzJKsg/edit?usp=sharing)
+
+---
+
